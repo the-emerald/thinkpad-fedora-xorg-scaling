@@ -1,0 +1,6 @@
+  243  vim ~/.config/autostart/hidpi.sh
+  244  vim ~/.config/autostart/hidpi.desktop
+  245  chmod +x ~/.config/autostart/hidpi.sh 
+  246  sudo cp ~/.config/autostart/hidpi.desktop /usr/share/gdm/greeter/autostart/hidpi.desktop
+  247  sudo cp ~/.config/autostart/hidpi.desktop /etc/xdg/autostart/hidpi.desktop
+ 
